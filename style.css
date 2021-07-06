@@ -72,3 +72,29 @@
     margin-top: 15xp;
 
 }
+.third-section{
+    width: 100%;
+    height:500px;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.food{
+    display: flex;
+    margin-left: 15px;
+    margin-top: 30px;
+}
+.food .food-item{
+    width: 27%;
+    height: 320px;
+    margin-left: 40px;
+    box-shadow: 5px 10px 20px grey;
+    padding: 20px;
+}
+
+.food-item img{
+    width: 250px;
+    height: 200px;
+    border-radius: 10px;
+}
